@@ -1,6 +1,6 @@
 # Hi, I'm Kyle 👋
 
-I'm a Computer Science student with a growing passion for building real-world tools and clean, user-centered websites. I'm currently open to **paid internships** in software development or web design.
+I'm a Computer Science student.
 
 ## 🛠️ Tech & Tools
 
