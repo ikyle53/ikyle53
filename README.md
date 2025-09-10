@@ -12,11 +12,10 @@ I'm a Computer Science student with a growing passion for building real-world to
 
 - 🕷 [**Python Web Scraper**](https://github.com/ikyle53/WH-Scraper) – Built a script to extract and process data from live websites. Great for learning automation, data handling, and Python's ecosystem.
 - 💸 [**Discount Calculator**](https://github.com/ikyle53/JS-dicountCalculator) – A simple but useful JS-based calculator for price markdowns.
-- ⚔️ [**Passion project**](https://github.com/ikyle53/passionProject) - Some friends and I are worldbuilding a new tabletop game to play amongst one another at our local game store.
 
 ## 📚 Currently Learning
 
-- HackRank daily problems
+- HackerRank daily problems
 - Python in general
 - Python GUI
 - JavaScript deep dive
@@ -26,7 +25,6 @@ I'm a Computer Science student with a growing passion for building real-world to
 ## 📫 Let's Connect
 
 - [GitHub](https://github.com/ikyle53)
-- [Portfolio](https://kyle-honaker-portfolio.netlify.app/)
 
 ---
 
