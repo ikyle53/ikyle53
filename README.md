@@ -1,7 +1,5 @@
 # Hi, I'm Kyle 👋
 
-I'm a Computer Science student.
-
 ## 🛠️ Tech & Tools
 
 - **Languages:** Python, JavaScript, HTML, CSS
@@ -16,9 +14,8 @@ I'm a Computer Science student.
 
 ## 📚 Currently Learning
 
-- Python in general
-- Python GUI
-- Data
+- Python libraries
+- Cyber Sec. as a second degree
 
 ---
 
